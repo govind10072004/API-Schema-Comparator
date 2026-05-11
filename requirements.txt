@@ -1,0 +1,7 @@
+streamlit 
+httpx
+beautifulsoup4
+groq
+python-dotenv
+fastapi
+uvicorn7
